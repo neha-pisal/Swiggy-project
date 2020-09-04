@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MenuMacdyComponent implements OnInit {
 
-  restoName = "Domino'z";
+  restoName = "Mcdonald's";
 
   menuList = [
     { title: 'Chicken Maharaja Mac', price: 'Rs.205' },
