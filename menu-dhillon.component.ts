@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./menu-dhillon.component.css']
 })
 export class MenuDhillonComponent implements OnInit {
-  restoName = "Domino'z";
+  restoName = "Dhillon Resto";
 
   menuList = [
     { title: 'Chicken Maharaja Mac', price: 'Rs.205' },
